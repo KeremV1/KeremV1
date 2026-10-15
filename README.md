@@ -4,13 +4,12 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=45&lines=TypeScript+%C2%B7+React+%C2%B7+Rust+%C2%B7+Python;Local-first+uygulamalar+kuruyorum;Veri+kullan%C4%B1c%C4%B1n%C4%B1n+cihaz%C4%B1nda+kal%C4%B1r;Tek+platforma+ba%C4%9Fl%C4%B1+kalmayan+ara%C3%A7lar" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=45&lines=TypeScript+%C2%B7+React+%C2%B7+Rust+%C2%B7+Python;Tek+platforma+ba%C4%9Fl%C4%B1+kalmayan+ara%C3%A7lar" alt="" />
 
 <br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=KeremV1.KeremV1&left_text=PROF%C4%B0L%20G%C3%96R%C3%9CNT%C3%9CLEME&left_color=0D1117&right_color=00FF41" alt="" />
 <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye-0D1117?style=for-the-badge&labelColor=00FF41" alt="" />
-<img src="https://img.shields.io/badge/Odak-Local--first-0D1117?style=for-the-badge&labelColor=00FF41" alt="" />
 
 </div>
 
@@ -188,6 +187,6 @@ Local-first fotoğraf günlüğü — günün tek karesi, cihazda kalır.
 
 <sub>Projelerin depoları şu an özel tutuluyor.<br/>Belirli bir proje hakkında ayrıntı veya demo isterseniz yazabilirsiniz.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080A,50:007A1F,100:00FF41&height=120&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/KeremV1/KeremV1/main/assets/matrix-footer.svg" width="100%" alt="" />
 
 </div>

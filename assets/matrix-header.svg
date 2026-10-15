@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="MoNoR — Full Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="MoNoR">
 <style>
 .m{font-family:"MS Gothic","Hiragino Kaku Gothic ProN","Noto Sans JP",monospace;font-size:16px}
 .col{animation-name:fall;animation-timing-function:linear;animation-iteration-count:infinite}
 @keyframes fall{from{transform:translateY(-300px)}to{transform:translateY(240px)}}
-.t{font-family:"Segoe UI",Helvetica,Arial,sans-serif;font-weight:700}
+.t{font-family:"Consolas","DejaVu Sans Mono","Menlo","Courier New",monospace;font-weight:700}
 </style>
 <defs>
 <linearGradient id="vig" x1="0" y1="0" x2="0" y2="1">
@@ -822,9 +822,9 @@
 </g></g>
 <rect width="1200" height="220" fill="url(#vig)"/>
 <rect width="1200" height="220" fill="url(#spot)"/>
-<text class="t" x="600" y="106" text-anchor="middle" font-size="62" fill="#00FF41" opacity=".55" filter="url(#glow)">MoNoR</text>
-<text class="t" x="600" y="106" text-anchor="middle" font-size="62" fill="#EAFFF1">MoNoR</text>
-<text class="t" x="600" y="146" text-anchor="middle" font-size="19" fill="#00FF41" letter-spacing="7" font-weight="600">FULL STACK DEVELOPER</text>
+<text class="t" x="600" y="106" text-anchor="middle" font-size="58" letter-spacing="4" fill="#00FF41" opacity=".55" filter="url(#glow)">MoNoR</text>
+<text class="t" x="600" y="106" text-anchor="middle" font-size="58" letter-spacing="4" fill="#EAFFF1">MoNoR</text>
+<text class="t" x="600" y="146" text-anchor="middle" font-size="18" fill="#00FF41" letter-spacing="7">FULL STACK DEVELOPER</text>
 <rect x="0" y="0" width="1200" height="2" fill="#00FF41" opacity=".35"/>
 <rect x="0" y="218" width="1200" height="2" fill="#00FF41" opacity=".35"/>
 </svg>
