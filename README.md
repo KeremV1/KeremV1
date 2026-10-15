@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KeremV1&style=for-the-badge&color=00FF41&label=PROF%C4%B0L+G%C3%96R%C3%9CNT%C3%9CLEME" alt="" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=KeremV1.KeremV1&left_text=PROF%C4%B0L%20G%C3%96R%C3%9CNT%C3%9CLEME&left_color=0D1117&right_color=00FF41" alt="" />
 <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye-0D1117?style=for-the-badge&labelColor=00FF41" alt="" />
 <img src="https://img.shields.io/badge/Odak-Local--first-0D1117?style=for-the-badge&labelColor=00FF41" alt="" />
 
