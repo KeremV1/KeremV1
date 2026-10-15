@@ -122,10 +122,6 @@ Günde tek kare, bir ömürlük film. Local-first mimari; film türleri, seri ve
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeremV1&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeremV1/KeremV1/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeremV1/KeremV1/output/snake.svg" />
